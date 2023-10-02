@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "19_2_3_ParallelLoop": {
+      "commandName": "Project",
+      "commandLineArgs": "0 100000"
+    }
+  }
+}
